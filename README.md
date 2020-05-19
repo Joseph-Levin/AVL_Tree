@@ -24,4 +24,3 @@ Valid commands include:
 
 All other attempted commands will result in error message
 
-*testing*
