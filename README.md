@@ -1,6 +1,7 @@
 # AVL_Tree
 Balanced binary search tree of strings
   Makes comparisons to each character in the string until it finds which string is "greater"(later in the alphabet) and sorts lower valued strings(abc) to the left and higher valued strings(xyz) to the right
+*First Attempt at using Github*
 
 To compile using Makefile: $make    //Results in an executable named "main"
 
